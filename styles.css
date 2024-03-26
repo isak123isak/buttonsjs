@@ -1,0 +1,25 @@
+.light {
+  background-color: white;
+  color: black;
+}
+
+.dark {
+  background-color: black;
+  color: light;
+}
+
+h1 {
+  font-size: 30px;
+  color: blue;
+  text-align: center;
+}
+
+button {
+  align-items: center;
+  height: 40px;
+  width: 120px;
+  border: 2ox solid white;
+  cursor: pointer;
+  transition: 1s;
+  margin-left: 10;
+}
